@@ -1,0 +1,1 @@
+alert tcp any any -> any any (msg:"Local Rule"; content:"/wOOnl9tnKeyeyjNO"; sid:20000001;)
